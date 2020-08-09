@@ -14,6 +14,6 @@
   "author": "Dejan Lukic <dejanlukic@hotmail.com.au>",
   "license": "",
   "peerDependencies": {
-    "react-native": "0.57.4"
+    "react-native": "^0.60.0"
   }
 }
